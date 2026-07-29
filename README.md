@@ -56,47 +56,61 @@ Word-Frequency-Analysis/
 
 ## 📷 Screenshots
 
-### 🖥 Application Interface
+### 🖥 Application Interface English
+ 
 
-![Application Interface](images/interface.png)
 <img width="1247" height="913" alt="image" src="https://github.com/user-attachments/assets/be5bd809-cfdb-4d0c-bded-0c1a5794794a" />
+
+
+### 🖥 Application Interface Marathi
+
 <img width="1891" height="913" alt="image" src="https://github.com/user-attachments/assets/978d7364-456a-43b9-90fa-93305fa839d2" />
 
 ---
 
 ### 🇬🇧 English Text Input
 
-![English Input](images/english_input.png)
 <img width="1226" height="905" alt="image" src="https://github.com/user-attachments/assets/307c7cba-aa81-44a0-9cc6-df5266c62d85" />
 
 ---
 
 ### 🇮🇳 Marathi Text Input
 
-![Marathi Input](images/marathi_input.png)
+
 <img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/780620f2-cbc7-435a-9769-81b4589971b7" />
 
 ---
 
-### 📊 Word Frequency Analysis
+### 📊 Word Frequency Analysis English
 
-![Word Frequency](images/frequency.png)
 <img width="517" height="126" alt="image" src="https://github.com/user-attachments/assets/91852f03-80c6-4005-a283-88b5c582efc5" />
 
+### 📊 Word Frequency Analysis Marathi
 
 <img width="847" height="137" alt="image" src="https://github.com/user-attachments/assets/09d76f93-c3bf-4573-9456-5a51ea59fc35" />
 
----
 
-### 🧠 Word Sense Disambiguation
-
-![Word Sense Disambiguation](images/wsd.png)
 
 ---
 
-### ✅ Final Output
+### 🧠 Word Sense Disambiguation English
 
-![Final Output](images/output.png)
+<img width="1920" height="538" alt="image" src="https://github.com/user-attachments/assets/11e1fb56-7f6e-4dfc-9425-97a60c468888" />
+<img width="1020" height="470" alt="image" src="https://github.com/user-attachments/assets/75e47823-4795-4ce5-84da-96b2e7ecb012" />
+
+### 🧠 Word Sense Disambiguation Marathi
+
+<img width="1902" height="902" alt="image" src="https://github.com/user-attachments/assets/a79e7d4c-cfbc-4505-b296-b9fab8ad8817" />
+
+<img width="830" height="900" alt="image" src="https://github.com/user-attachments/assets/c8574bcf-02ef-4fb1-a961-da9428b352a6" />
+
+---
+
+### ✅ Final Output English & Marathi
+
+<img width="1196" height="918" alt="image" src="https://github.com/user-attachments/assets/bfd40128-0be1-4d0a-97d3-d4ea49a9f14a" />
+
+<img width="1693" height="914" alt="image" src="https://github.com/user-attachments/assets/08568846-a980-495a-856c-4ad534744f04" />
 
 ---
 
