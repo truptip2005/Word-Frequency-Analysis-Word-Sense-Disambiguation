@@ -33,6 +33,28 @@ The application provides an interactive interface built with **Gradio**, allowin
 - Matplotlib
 
 ---
+## 📚 Marathi Dictionary
+
+A custom Marathi dictionary was created specifically for this project.
+
+The dictionary contains approximately **500–1,000 Marathi words**.
+
+Each word in the dictionary stores **five different meanings**, allowing the application to provide richer contextual information for the searched word.
+
+---
+
+## ⚙️ How It Works
+
+The application follows these steps:
+
+1. Upload a PDF or text document.
+2. Extract text from the document.
+3. Search for the selected word.
+4. Count the total number of occurrences.
+5. Display every complete sentence containing the searched word.
+6. Retrieve and display all **five meanings** of the searched word from the Marathi dictionary.
+
+---
 
 ## 📂 Project Structure
 
