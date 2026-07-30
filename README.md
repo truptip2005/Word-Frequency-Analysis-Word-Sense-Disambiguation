@@ -188,6 +188,4 @@ python app.py
 
 **Trupti Shashikant Panchwatkar**
 
-AI/ML Engineer
-
 GitHub: https://github.com/truptip2005
